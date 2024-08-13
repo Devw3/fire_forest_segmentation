@@ -6,6 +6,6 @@
 Мое решение реализовано с использованием специально разработанной архитектуры нейронной сети UNet, которая была обучена в среде PyTorch.
 Средний loss на тестовой выборке 0.33
 Обучал я на размеченном датасете с roboflow
-![Пример работы проекта](https://github.com/Sasha2810/Struggle-with-line/raw/main/test.png)
+![Пример работы проекта](https://github.com/Sasha2810/fire_forest_segmentation/raw/main/forest_test.png)
 
 Школьный проект 
